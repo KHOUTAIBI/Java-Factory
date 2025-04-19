@@ -1,0 +1,7 @@
+### <ins> Welcome to Sky factory <ins> ! ###
+
+## <ins> Iliass Khoutaibi & Souhail Ait Fora <ins> ##
+
+<img src="./gifs/factory.gif" width="600" height="600"/>
+
+This is a project by KHOUTAIBI Iliass and AIT-FORA souhail. We got two branches: **master** and **KHOUTAIBI**. the master branch consists of the functional code that both participants were okay with. The **KHOUTAIBI** branch is the one for experimentation and **beta** coding, mainly used to test codes and implementations by both parties,it is depricated and should not be taken into consideration !
