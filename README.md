@@ -5,7 +5,7 @@
 ## Authors
 
 - **Iliass Khoutaibi**
-- **Souhail Ait Fora**
+- [**Souhail Ait Fora**](https://github.com/SouhailAitFora)
 
 ## Overview
 
