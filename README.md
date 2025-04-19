@@ -2,7 +2,7 @@
 
 ![Factory Pattern Demo](./factory.gif)
 
-## 👥 Authors
+## Authors
 
 - **Iliass Khoutaibi**
 - **Souhail Ait Fora**
@@ -14,7 +14,7 @@ Sky Factory is a Java-based project that demonstrates the implementation of the 
 - **`master`**: Contains the stable, functional code agreed upon by both contributors.
 - **`KHOUTAIBI`**: An experimental branch used for testing and prototyping. This branch is deprecated and should not be considered for production use.
 
-## 🛠️ Features
+## Features
 
 - **Factory Design Pattern Implementation**: Showcases how to use the Factory Pattern to create objects without specifying the exact class of the object to be created.
 - **Modular Code Structure**: Organized codebase for better readability and maintenance.
