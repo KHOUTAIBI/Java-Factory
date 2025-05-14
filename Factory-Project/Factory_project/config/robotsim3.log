@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-05-25T13:19:52.542189600Z</date>
+  <millis>1716643192542</millis>
+  <nanos>189600</nanos>
+  <sequence>0</sequence>
+  <logger>simulator.SimulatorApplication</logger>
+  <level>INFO</level>
+  <class>simulator.SimulatorApplication</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Starting the robot simulator...</message>
+</record>
+</log>
